@@ -8,6 +8,7 @@ export default `
     <input id="toggle-all" class="toggle-all" type="checkbox">
     <label for="toggle-all">Mark all as complete</label>
     <ul class="todo-list">
+      <!-- Ici viennent les todos -->
       
     </ul>
   </section>

@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/webiepscf/TODOS_VANILLAJS_MODERNE_LIVE/issues"
   },
-  "homepage": "https://github.com/webiepscf/TODOS_VANILLAJS_MODERNE_LIVE#readme"
+  "homepage": "https://github.com/webiepscf/TODOS_VANILLAJS_MODERNE_LIVE#readme",
+  "dependencies": {
+    "templates": "^1.2.9"
+  }
 }
